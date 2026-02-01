@@ -1,4 +1,5 @@
 🛒 Shop Management System (Python Backend)
+
 A simple, efficient, and console-based Shop Management System Backend developed using Python.
         This project is designed to manage day-to-day shop operations in a structured and beginner-friendly way, entirely through the terminal.
          The system works completely offline and focuses on clean backend logic that can later be extended into a web or API-based application.
