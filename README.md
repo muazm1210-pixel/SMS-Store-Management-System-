@@ -69,12 +69,12 @@ a database or building a REST API.
 
 ## 📁 Project Structure
 
--**shop-management-system/**-
--│
--├── main.py # Controls program flow and menu system                                                                                                                                                                           
--├── auth.py # Handles user login & signup                                                                                                                                                                                     
--├── products.py # Manages product inventory & stock                                                                                                                                                                           
--├── billing.py # Handles sales and bill generation                                                                                                                                                                            
--├── README.md # Project documentation                                                                                                                                                                                         
--└── requirements.txt # Project dependencies (if any)                                                                                                                                                                           
+-**shop-management-system/**-                                                                                                                                                                                                  
+│                                                                                                                                                                                                                              
+├── main.py # Controls program flow and menu system                                                                                                                                                                            
+├── auth.py # Handles user login & signup                                                                                                                                                                                      
+├── products.py # Manages product inventory & stock                                                                                                                                                                            
+├── billing.py # Handles sales and bill generation                                                                                                                                                                             
+├── README.md # Project documentation                                                                                                                                                                                          
+└── requirements.txt # Project dependencies (if any)                                                                                                                                                                           
 
