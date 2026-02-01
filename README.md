@@ -1,4 +1,5 @@
-<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/f952f214-1eb6-454f-a993-4460780d5088" /># 🛒 Shop Management System (Python Backend)
+
+# 🛒 Shop Management System (Python Backend)
 
 A simple, efficient, and console-based **Shop Management System Backend**
 developed using **Python**.
