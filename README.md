@@ -80,3 +80,44 @@ a database or building a REST API.
 
 ---
 
+## ▶️ How to Run the Project
+
+1. Make sure **Python 3** is installed on your system  
+2. Open the project folder in **VS Code** or any code editor  
+3. Open terminal in the project directory  
+4. Run the main file:
+   -python main.py
+
+---
+
+## 🔮 Future Improvements
+
+- Database integration (MySQL / PostgreSQL / MongoDB)
+- Web frontend (Django / Flask / FastAPI)
+- REST API support
+- Multi-user roles (Admin / Staff)
+- Online payments
+- 
+---
+
+## 📌 Note
+
+This project is ideal for:
+
+- Python beginners
+- Backend practice
+- Console application learning
+- Understanding modular project structure
+
+---
+
+### ✅ Result
+- Headings properly separated  
+- Bullet points aligned  
+- Code blocks render correctly  
+- GitHub preview **clean & professional**  
+- Portfolio-ready 🔥  
+
+
+
+
