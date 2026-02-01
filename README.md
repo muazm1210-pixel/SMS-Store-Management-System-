@@ -25,7 +25,6 @@ A simple, efficient, and console-based Shop Management System Backend developed 
 
 🧠 What This System Does:
 This backend application allows shop owners or staff to:
-
 •Manage shop inventory without internet access
 •Perform secure user authentication
 •Handle sales transactions and generate bills
