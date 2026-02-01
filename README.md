@@ -22,7 +22,7 @@ later be extended into a web or API-based application.
 - Delete products  
 - Handles up to **2000 products efficiently**
 
-### 🧾 Billing System
+### ❓ Billing System
 - Calculates total bills  
 - Generates customer bills  
 
