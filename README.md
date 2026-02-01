@@ -1,4 +1,4 @@
-# 🛒 Shop Management System (Python Backend)
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/f952f214-1eb6-454f-a993-4460780d5088" /># 🛒 Shop Management System (Python Backend)
 
 A simple, efficient, and console-based **Shop Management System Backend**
 developed using **Python**.
@@ -22,7 +22,7 @@ later be extended into a web or API-based application.
 - Delete products  
 - Handles up to **2000 products efficiently**
 
-### ❓ Billing System
+### 🚤 Billing System
 - Calculates total bills  
 - Generates customer bills  
 
@@ -77,4 +77,6 @@ a database or building a REST API.
 ├── billing.py # Handles sales and bill generation                                                                                                                                                                             
 ├── README.md # Project documentation                                                                                                                                                                                          
 └── requirements.txt # Project dependencies (if any)                                                                                                                                                                           
+
+---
 
