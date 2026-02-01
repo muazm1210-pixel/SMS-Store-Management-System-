@@ -69,7 +69,7 @@ a database or building a REST API.
 
 ## 📁 Project Structure
 
--**shop-management-system/**-                                                                                                                                                                                                  
+**shop-management-system/**                                                                                                                                                                                                    
 │                                                                                                                                                                                                                              
 ├── main.py # Controls program flow and menu system                                                                                                                                                                            
 ├── auth.py # Handles user login & signup                                                                                                                                                                                      
